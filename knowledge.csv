@@ -1,0 +1,47 @@
+question,answer
+question,answer
+"hi","Hello! How can I help you today?"
+"hello","Hi there! How can I assist you?"
+"hey","Hey! Feel free to ask your question."
+"good morning","Good morning! How may I help you?"
+"good afternoon","Good afternoon! How can I support you?"
+"good evening","Good evening! What can I help you with?"
+"bye","Goodbye! Have a great day."
+"thank you","You're welcome! Let me know if you need anything else."
+"thanks","Happy to help!"
+
+"can you help me","Yes absolutely! Please tell me your problem."
+"can you figure out my problem","Yes absolutely. Please explain your issue in detail so I can assist you."
+"i need help","Sure! I am here to help. Please describe your issue."
+"i am confused","No problem at all. Please explain what you are facing."
+"help me please","Of course! Tell me what issue you are experiencing."
+
+"what is this system","This is an AI-powered knowledge engine designed for smart support and ticket resolution."
+"how does this system work","The system analyzes your question, finds the closest match in the knowledge base, and responds intelligently."
+"what is a knowledge engine","A knowledge engine stores and retrieves information intelligently to assist users."
+"what is a ticketing system","A ticketing system records unresolved queries so support teams can handle them later."
+
+"how do i reset my password","Click on 'Forgot Password' and follow the instructions sent to your registered email."
+"how can i contact support","You can contact support by emailing support@example.com."
+"what are the working hours of support","Our support team is available from 9 AM to 6 PM Monday to Friday."
+"how do i track my ticket status","You can track your ticket using the ticket ID sent to your email."
+"how do i submit feedback","You can submit feedback through the feedback form available on our website."
+
+"my software crashed","Please restart your system. If the issue persists, submit a support ticket."
+"application is slow","Try closing unused applications. If the problem continues, raise a support ticket."
+"i am getting an error","Please share the error details so we can assist you better."
+"system is not working","We are sorry for the inconvenience. Please explain the issue so we can help you."
+
+"what is artificial intelligence","Artificial Intelligence is the simulation of human intelligence in machines."
+"what is machine learning","Machine Learning is a subset of AI that enables systems to learn from data."
+"what is deep learning","Deep Learning is a machine learning technique using neural networks with multiple layers."
+"what is data science","Data Science involves extracting insights from structured and unstructured data."
+
+"what is frontend","Frontend refers to the user interface part of an application."
+"what is backend","Backend handles server-side logic, databases, and application processing."
+"what is a csv file","A CSV file stores tabular data using comma-separated values."
+"why csv is used","CSV files are lightweight, easy to read, and widely supported."
+
+"tell me about this project","This project demonstrates an AI-powered smart support and ticket resolution system."
+"what problem does this project solve","It reduces response time and improves efficiency in customer support."
+"what is the objective of this project","The objective is to provide intelligent automated support using AI techniques."
