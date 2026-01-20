@@ -1,2 +1,10 @@
 streamlit
-pandas
+langchain
+langchain-community
+langchain-huggingface
+langchain-core
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
+transformers
